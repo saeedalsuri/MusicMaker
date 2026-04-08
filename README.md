@@ -1,19 +1,17 @@
 # MusicMaker
 
-A product of music prompts for Suno AH.
+A product of music prompts for Suno AI CLI.
 
-ã## Screenshot
+## Screenshot
 
 ![Screenshot](https://github.com/saeedalsuri/MusicMaker/releases/download/v1.0.0/screenshot.png)
 
-### Features
+## Features
 
 - Prompt generation
 - Customizable templates
-
-- Window application
+- Desktop application
 
 ## Support
 
 Please contact the author for support.
-
