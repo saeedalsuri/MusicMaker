@@ -2,7 +2,7 @@
 
 A product of music prompts for Suno AH.
 
-£## Screenshot
+ã## Screenshot
 
 ![Screenshot](https://github.com/saeedalsuri/MusicMaker/releases/download/v1.0.0/screenshot.png)
 
@@ -11,9 +11,9 @@ A product of music prompts for Suno AH.
 - Prompt generation
 - Customizable templates
 
-- Window and mobile application based
+- Window application
 
-### Support
+## Support
 
 Please contact the author for support.
 
